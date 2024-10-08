@@ -16,7 +16,7 @@ I am flexible, easy to communicate with, and I love coffee because a programmer 
 ## EXPERIENCE
 
 ### Full Stack Developer
-**Polcode | October 2022 - Present, Poland**
+**Polcode | October 2021 - Present, Poland**
 
 #### **Internal System for Home Interior Designer, Manufacturer, and Retailer:**
 - Maintained and added new features to the custom CRM system.
@@ -31,7 +31,7 @@ I am flexible, easy to communicate with, and I love coffee because a programmer 
 **Tech Stack:** Symfony, React, MySQL, Redux, Redux-Saga, Cypress, PHPUnit, React Testing Library, Elastic Search, PWA.
 
 ### Full Stack Developer
-**Geliosoft | June 2020 - October 2022, Belarus**
+**Geliosoft | June 2020 - October 2021, Belarus**
 
 #### **Vehicle Sharing Application:**
 - Responsible for the REST API for mobile and web applications, communication with external services written in Python, and a web application for real-time vehicle tracking and notifications from external services.
